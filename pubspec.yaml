@@ -1,4 +1,7 @@
 name: ex03
-description: A sample command-line application
+version: 0.0.1
+author: Mohamed Bouanane 
+description: ex03 ,library for print.
+homepage: http://ondart.me/
 #dependencies:
 #  unittest: any
