@@ -2,14 +2,14 @@ part of ex03;
 
 
 String afficherLaPremiereReponse(num width, num height, num area) =>
-    ('in meter the widht of the rectangle = $width, the height = $height and the area = $area');
+    ('in meter : The widht of the rectangle is $width, the height is $height and the area is $area');
 
 
 
 String converstionMetreToKilometre(num width, num height, num area){
   num x=00.1;
-  return('in kilometre the widht of the rectangle = ${width*x}, the height = ${height*x} and the area = ${area*x}');
+  return('in kilometre : The widht of the rectangle is ${width*x}, the height is ${height*x} and the area is ${area*x}');
 }
 
 String afficherLaDeuxiemeReponse(num distance, num time, num speed) =>   
-    ('in meter the distance of the circuit = $distance, the average time = $time and the average speed = $speed');
+    ('in meter : The distance of the circuit is $distance, the average time is $time and the average speed is $speed');
