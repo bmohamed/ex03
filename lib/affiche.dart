@@ -8,8 +8,8 @@ String afficherLaPremiereReponse(num width, num height, num area) =>
 
 String converstionMetreToKilometre(num width, num height, num area){
   num x=00.1;
-  return('in kilometre : The widht of the rectangle is ${width*x}, the height is ${height*x} seconds and the area is ${area*x} Km/h');
+  return('in kilometre : The widht of the rectangle is ${width*x}, the height is ${height*x} and the area is ${area*x}');
 }
 
 String afficherLaDeuxiemeReponse(num distance, num time, num speed) =>   
-    ('in meter : The distance of the circuit is $distance, the average time is $time and the average speed is $speed');
+    ('in meter : The distance of the circuit is $distance, the average time is $time seconds and the average speed is $speed  Km/h');
