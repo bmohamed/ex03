@@ -8,7 +8,7 @@ String afficherLaPremiereReponse(num width, num height, num area) =>
 
 String converstionMetreToKilometre(num width, num height, num area){
   num x=00.1;
-  return('in kilometre : The widht of the rectangle is ${width*x}, the height is ${height*x} and the area is ${area*x}');
+  return('in kilometre : The widht of the rectangle is ${width*x}, the height is ${height*x} seconds and the area is ${area*x} Km/h');
 }
 
 String afficherLaDeuxiemeReponse(num distance, num time, num speed) =>   
