@@ -1,0 +1,12 @@
+ex03 library
+
+0/1
+
+README.md: nom du cours ?
+
+gitignore.txt -> .gitignore
+
+formater le code
+
+dossier example ?
+
